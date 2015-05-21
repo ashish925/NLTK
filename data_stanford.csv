@@ -1,0 +1,8 @@
+,Predicate,V POS,Head Word,Head Word POS,Phrase type,Path,Relative Position,Target,Constituent
+0,played,VBD,Ram,NNP,NNP,VBD1VP1S0NP0NNP0,0,Unknown,(NNP Ram)
+1,played,VBD,Cricket,NNP,NNP,VBD1VP0NP0NNP0,1,Unknown,(NNP Cricket)
+2,played,VBD,with,IN,IN,VBD1VP0PP0IN0,1,Unknown,(IN with)
+3,played,VBD,Shyam,NNP,NNP,VBD1VP0PP0NP0NNP0,1,Unknown,(NNP Shyam)
+4,played,VBD,Ram,NNP,NP,VBD1VP1S0NP0,0,Unknown,(NP (NNP Ram))
+5,played,VBD,Cricket,NNP,NP,VBD1VP0NP0,1,Unknown,(NP (NNP Cricket))
+6,played,VBD,with,IN,PP,VBD1VP0PP0,1,Unknown,(PP (IN with) (NP (NNP Shyam)))
